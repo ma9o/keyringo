@@ -1,6 +1,3 @@
-# KeyRingo
-A tiny macOS utility to ((securely)) prove account ownership in Ethereum without running a node
-
 ## Usage
 `http://localhost:[PORT]/sign?[CHALLENGE]` - default port being `8001`
 
