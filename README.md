@@ -20,4 +20,3 @@ vk.verify(binascii.unhexlify(res), '[CHALLENGE]'.encode())
 ## TODO
 * Cross-platform
 * Multiple accounts
-* Fix Italy economic plan
